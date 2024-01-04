@@ -1,0 +1,8 @@
+﻿  Client.cpp
+C:\Users\Luke Belch\source\repos\CSCI_W4\CSCI_W4\Client.cpp(3,10): fatal error C1083: Cannot open include file: 'sys/socket.h': No such file or directory
+  q_a.cpp
+  Server.cpp
+C:\Users\Luke Belch\source\repos\CSCI_W4\CSCI_W4\Server.cpp(4,10): fatal error C1083: Cannot open include file: 'unistd.h': No such file or directory
+  user_Cache.cpp
+C:\Users\Luke Belch\source\repos\CSCI_W4\CSCI_W4\user_Cache.cpp(21,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
