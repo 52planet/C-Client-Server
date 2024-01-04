@@ -1,0 +1,1 @@
+This is a Unix program I wrote to build a multi threaded C++ server capable of managing multiple clients attempting to access shared resources. All while servicing repeat requests through a local cache for efficiency.
